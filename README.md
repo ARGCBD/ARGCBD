@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey! 👋
+I'm Cleo Burrows. I really like programming and I was born at the Panama City on Panama. I currently live in Barranquilla, Colombia.
 
-<!--
-**ARGCBD/ARGCBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I am learning to program in [STEAM Academy](https://www.instagram.com/steamacademy.co/) 
 
-Here are some ideas to get you started:
+- 🏫 I study at the [British International School BIS](https://britishschool.edu.co/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- ### Code Languages:
+some Python, Unity
+- ### Herramientas:
+VisualStudio, Unity
+- ### I Speak:
+  English, Español
+## Contact
+- [@](./) en Discord
